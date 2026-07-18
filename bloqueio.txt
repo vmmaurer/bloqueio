@@ -11,7 +11,6 @@
 0.0.0.0 s.clarity.ms
 0.0.0.0 analytics.adobe.io
 0.0.0.0 pangleglobal.com
-0.0.0.0 youtubei.googleapis.com
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 s.youtube.com
 0.0.0.0 ads.microsoft.com
